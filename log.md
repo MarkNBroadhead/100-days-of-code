@@ -15,3 +15,7 @@
 **Thoughts:** Refactoring is fun, tests make refactoring significantly easier. I am progressing and since I originally wrote this code I now understand that putting all my application logic in a single controller class is a bad pattern. The code is now much eaiser to read and debug.
 
 **Link to work:** [Tweet](https://twitter.com/MarkNBroadhead/status/947248618985070593)
+
+### December 31, 2017
+
+**No Progress**: Spending time with friends and family.
